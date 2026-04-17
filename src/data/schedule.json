@@ -1,0 +1,402 @@
+[
+  {
+    "week": "1",
+    "saturday_date": "19.09.2026",
+    "sunday_date": "20.09.2026",
+    "fields": "Cts: Kamu Yönetimi\nPaz: Psikoloji",
+    "saturday_course": "Yurt Dışı Türkler Sorunları ve Çözümleri",
+    "sunday_course": "Politik Psikoloji",
+    "teachers": "Cts: Doç. Dr. Bekir GÜNDOĞMUŞ\nPaz: Dr. Mücahit GÜLTEKİN",
+    "planned_hours": "8"
+  },
+  {
+    "week": "2",
+    "saturday_date": "26.09.2026",
+    "sunday_date": "27.09.2026",
+    "fields": "Cts: İlahiyat\nPaz: Uluslararası İlişkiler",
+    "saturday_course": "Aile ve Gençliğin Sorunları ve Çözüm Önerileri",
+    "sunday_course": "Enerji Güvenliği ve Enerji Politikaları",
+    "teachers": "Cts: Dr. Abdülaziz KIRANŞAL\nPaz: Dr. Fatih YILDIRIM",
+    "planned_hours": "8"
+  },
+  {
+    "week": "3",
+    "saturday_date": "03.10.2026",
+    "sunday_date": "04.10.2026",
+    "fields": "Cts: Kamu Yönetimi\nPaz: Sosyoloji",
+    "saturday_course": "Türk Siyasi Hayatı",
+    "sunday_course": "İslam ve Batı Karşılaştırmalı Felsefik Düşünceler",
+    "teachers": "Cts: Prof. Dr. Abdullah AYDIN\nPaz: Dr. Yusuf YALANIZ",
+    "planned_hours": "8"
+  },
+  {
+    "week": "4",
+    "saturday_date": "10.10.2026",
+    "sunday_date": "11.10.2026",
+    "fields": "Cts: İşletme\nPaz: Kamu Yönetimi",
+    "saturday_course": "İşletme ve Girişimcilik",
+    "sunday_course": "Yurt Dışı Türkler Sorunları ve Çözümleri",
+    "teachers": "Cts: Doç. Dr. Muhammed MARUF\nPaz: Doç. Dr. Bekir GÜNDOĞMUŞ",
+    "planned_hours": "8"
+  },
+  {
+    "week": "5",
+    "saturday_date": "17.10.2026",
+    "sunday_date": "18.10.2026",
+    "fields": "Cts: İlahiyat\nPaz: Uluslararası İlişkiler",
+    "saturday_course": "Aile ve Gençliğin Sorunları ve Çözüm Önerileri",
+    "sunday_course": "Siyaset Bilimi ve Erbakan Hocanın Siyasi Mücadelesi",
+    "teachers": "Cts: Dr. Abdülaziz KIRANŞAL\nPaz: Dr. Recai TEKİN",
+    "planned_hours": "8"
+  },
+  {
+    "week": "6",
+    "saturday_date": "24.10.2026",
+    "sunday_date": "25.10.2026",
+    "fields": "Cts: İktisat\nPaz: Siyasi Tarih",
+    "saturday_course": "Uluslararası Finans Sistemi ve Yapısı",
+    "sunday_course": "Dünya Siyasi Tarihi",
+    "teachers": "Cts: Prof. Dr. Mete GÜNDOĞAN\nPaz: Doç. Dr. Musa BUDAK",
+    "planned_hours": "8"
+  },
+  {
+    "week": "7",
+    "saturday_date": "31.10.2026",
+    "sunday_date": "01.11.2026",
+    "fields": "Cts: İktisat\nPaz: Hukuk",
+    "saturday_course": "İktisat Tarihi ve İslam İktisadı",
+    "sunday_course": "Adil Düzen (Ekonomik, Siyasi, Ahlaki, İlmi Düzen)",
+    "teachers": "Cts: Prof. Dr. Sabri TEKİR\nPaz: Doç. Dr. Süleyman AKDEMİR",
+    "planned_hours": "8"
+  },
+  {
+    "week": "8",
+    "saturday_date": "07.11.2026",
+    "sunday_date": "08.11.2026",
+    "fields": "Cts: Sosyoloji\nPaz: İktisat",
+    "saturday_course": "İslam ve Batı Karşılaştırmalı Felsefik Düşünceler",
+    "sunday_course": "Uluslararası Finans Sistemi ve Yapısı",
+    "teachers": "Cts: Dr. Yusuf YALANIZ\nPaz: Prof. Dr. Mete GÜNDOĞAN",
+    "planned_hours": "8"
+  },
+  {
+    "week": "9",
+    "saturday_date": "14.11.2026",
+    "sunday_date": "15.11.2026",
+    "fields": "Cts: Uluslararası İlişkiler\nPaz: Psikoloji",
+    "saturday_course": "Siyaset Bilimi ve Erbakan Hocanın Siyasi Mücadelesi",
+    "sunday_course": "Politik Psikoloji",
+    "teachers": "Cts: Dr. Recai TEKİN\nPaz: Dr. Mücahit GÜLTEKİN",
+    "planned_hours": "8"
+  },
+  {
+    "week": "10",
+    "saturday_date": "21.11.2026",
+    "sunday_date": "22.11.2026",
+    "fields": "Cts: Siyasi Tarih\nPaz: İktisat",
+    "saturday_course": "Dünya Siyasi Tarihi",
+    "sunday_course": "Bankacılık Tarihi ve Kapitalist Finansal Sistem",
+    "teachers": "Cts: Doç. Dr. Musa BUDAK\nPaz: Prof. Dr. Musa ÖZTÜK",
+    "planned_hours": "8"
+  },
+  {
+    "week": "11",
+    "saturday_date": "28.11.2026",
+    "sunday_date": "29.11.2026",
+    "fields": "Cts: Uluslararası İlişkiler\nPaz: İlahiyat",
+    "saturday_course": "Enerji Güvenliği ve Enerji Politikaları",
+    "sunday_course": "Aile ve Gençliğin Sorunları ve Çözüm Önerileri",
+    "teachers": "Cts: Dr. Fatih YILDIRIM\nPaz: Dr. Abdülaziz KIRANŞAL",
+    "planned_hours": "8"
+  },
+  {
+    "week": "12",
+    "saturday_date": "05.12.2026",
+    "sunday_date": "06.12.2026",
+    "fields": "Cts: Sosyoloji\nPaz: Uluslararası İlişkiler",
+    "saturday_course": "İslam ve Batı Karşılaştırmalı Felsefik Düşünceler",
+    "sunday_course": "Siyaset Bilimi ve Erbakan Hocanın Siyasi Mücadelesi",
+    "teachers": "Cts: Dr. Yusuf YALANIZ\nPaz: Dr. Recai TEKİN",
+    "planned_hours": "8"
+  },
+  {
+    "week": "13",
+    "saturday_date": "12.12.2026",
+    "sunday_date": "13.12.2026",
+    "fields": "Cts: İktisat\nPaz: Siyasi Tarih",
+    "saturday_course": "Uluslararası Finans Sistemi ve Yapısı",
+    "sunday_course": "Dünya Siyasi Tarihi",
+    "teachers": "Cts: Prof. Dr. Mete GÜNDOĞAN\nPaz: Doç. Dr. Musa BUDAK",
+    "planned_hours": "8"
+  },
+  {
+    "week": "14",
+    "saturday_date": "19.12.2026",
+    "sunday_date": "20.12.2026",
+    "fields": "Cts: İlahiyat\nPaz: Kamu Yönetimi",
+    "saturday_course": "Aile ve Gençliğin Sorunları ve Çözüm Önerileri",
+    "sunday_course": "Yurt Dışı Türkler Sorunları ve Çözümleri",
+    "teachers": "Cts: Dr. Abdülaziz KIRANŞAL\nPaz: Doç. Dr. Bekir GÜNDOĞMUŞ",
+    "planned_hours": "8"
+  },
+  {
+    "week": "15",
+    "saturday_date": "26.12.2026",
+    "sunday_date": "27.12.2026",
+    "fields": "Cts: İktisat\nPaz: Hukuk",
+    "saturday_course": "İktisat Tarihi ve İslam İktisadı",
+    "sunday_course": "Adil Düzen (Ekonomik, Siyasi, Ahlaki, İlmi Düzen)",
+    "teachers": "Cts: Prof. Dr. Sabri TEKİR\nPaz: Doç. Dr. Süleyman AKDEMİR",
+    "planned_hours": "8"
+  },
+  {
+    "week": "16",
+    "saturday_date": "02.01.2027",
+    "sunday_date": "03.01.2027",
+    "fields": "Cts: İlahiyat\nPaz: İlahiyat",
+    "saturday_course": "Tefsir Metodolojisi ve Kur’an İlimleri",
+    "sunday_course": "Akaid",
+    "teachers": "Cts: Doç. Dr. Necmettin ÇALIŞKAN\nPaz: Prof. Dr. Harun BEKİROĞLU",
+    "planned_hours": "8"
+  },
+  {
+    "week": "17",
+    "saturday_date": "09.01.2027",
+    "sunday_date": "10.01.2027",
+    "fields": "Cts: İktisat\nPaz: Uluslararası İlişkiler",
+    "saturday_course": "Uluslararası Finans Sistemi ve Yapısı",
+    "sunday_course": "Enerji Güvenliği ve Enerji Politikaları",
+    "teachers": "Cts: Prof. Dr. Mete GÜNDOĞAN\nPaz: Dr. Fatih YILDIRIM",
+    "planned_hours": "8"
+  },
+  {
+    "week": "18",
+    "saturday_date": "16.01.2027",
+    "sunday_date": "17.01.2027",
+    "fields": "Cts: İktisat\nPaz: Siyasi Tarih",
+    "saturday_course": "Türkiye’nin Ekonomik Analizi",
+    "sunday_course": "Dünya Siyasi Tarihi",
+    "teachers": "Cts: Prof. Dr. İbrahim Halil SUGÖZÜ\nPaz: Doç. Dr. Musa BUDAK",
+    "planned_hours": "8"
+  },
+  {
+    "week": "19",
+    "saturday_date": "23.01.2027",
+    "sunday_date": "24.01.2027",
+    "fields": "Cts: Kamu Yönetimi\nPaz: Sosyoloji",
+    "saturday_course": "Türk Siyasi Hayatı",
+    "sunday_course": "İslam ve Batı Karşılaştırmalı Felsefik Düşünceler",
+    "teachers": "Cts: Prof. Dr. Abdullah AYDIN\nPaz: Dr. Yusuf YALANIZ",
+    "planned_hours": "8"
+  },
+  {
+    "week": "20",
+    "saturday_date": "30.01.2027",
+    "sunday_date": "31.01.2027",
+    "fields": "Cts: İlahiyat\nPaz: İktisat",
+    "saturday_course": "Aile ve Gençliğin Sorunları ve Çözüm Önerileri",
+    "sunday_course": "Bankacılık Tarihi ve Kapitalist Finansal Sistem",
+    "teachers": "Cts: Dr. Abdülaziz KIRANŞAL\nPaz: Prof. Dr. Musa ÖZTÜK",
+    "planned_hours": "8"
+  },
+  {
+    "week": "21",
+    "saturday_date": "06.02.2027",
+    "sunday_date": "07.02.2027",
+    "fields": "Cts: İktisat\nPaz: Kamu Yönetimi",
+    "saturday_course": "Türkiye’nin Ekonomik Analizi",
+    "sunday_course": "Türk Siyasi Hayatı",
+    "teachers": "Cts: Prof. Dr. İbrahim Halil SUGÖZÜ\nPaz: Prof. Dr. Abdullah AYDIN",
+    "planned_hours": "8"
+  },
+  {
+    "week": "22",
+    "saturday_date": "13.02.2027",
+    "sunday_date": "14.02.2027",
+    "fields": "Cts: İlahiyat\nPaz: İlahiyat",
+    "saturday_course": "Tefsir Metodolojisi ve Kur’an İlimleri",
+    "sunday_course": "Akaid",
+    "teachers": "Cts: Doç. Dr. Necmettin ÇALIŞKAN\nPaz: Prof. Dr. Harun BEKİROĞLU",
+    "planned_hours": "8"
+  },
+  {
+    "week": "23",
+    "saturday_date": "20.02.2027",
+    "sunday_date": "21.02.2027",
+    "fields": "Cts: İşletme\nPaz: İktisat",
+    "saturday_course": "İşletme ve Girişimcilik",
+    "sunday_course": "Bankacılık Tarihi ve Kapitalist Finansal Sistem",
+    "teachers": "Cts: Doç. Dr. Muhammed MARUF\nPaz: Prof. Dr. Musa ÖZTÜK",
+    "planned_hours": "8"
+  },
+  {
+    "week": "24",
+    "saturday_date": "27.02.2027",
+    "sunday_date": "28.02.2027",
+    "fields": "Cts: İktisat\nPaz: Hukuk",
+    "saturday_course": "İktisat Tarihi ve İslam İktisadı",
+    "sunday_course": "Adil Düzen (Ekonomik, Siyasi, Ahlaki, İlmi Düzen)",
+    "teachers": "Cts: Prof. Dr. Sabri TEKİR\nPaz: Doç. Dr. Süleyman AKDEMİR",
+    "planned_hours": "8"
+  },
+  {
+    "week": "25",
+    "saturday_date": "06.03.2027",
+    "sunday_date": "07.03.2027",
+    "fields": "Cts: İktisat\nPaz: İktisat",
+    "saturday_course": "Türkiye’nin Ekonomik Analizi",
+    "sunday_course": "Bankacılık Tarihi ve Kapitalist Finansal Sistem",
+    "teachers": "Cts: Prof. Dr. İbrahim Halil SUGÖZÜ\nPaz: Prof. Dr. Musa ÖZTÜK",
+    "planned_hours": "8"
+  },
+  {
+    "week": "26",
+    "saturday_date": "13.03.2027",
+    "sunday_date": "14.03.2027",
+    "fields": "Cts: İktisat\nPaz: Kamu Yönetimi",
+    "saturday_course": "Uluslararası Finans Sistemi ve Yapısı",
+    "sunday_course": "Yurt Dışı Türkler Sorunları ve Çözümleri",
+    "teachers": "Cts: Prof. Dr. Mete GÜNDOĞAN\nPaz: Doç. Dr. Bekir GÜNDOĞMUŞ",
+    "planned_hours": "8"
+  },
+  {
+    "week": "27",
+    "saturday_date": "20.03.2027",
+    "sunday_date": "21.03.2027",
+    "fields": "Cts: İlahiyat\nPaz: İlahiyat",
+    "saturday_course": "Tefsir Metodolojisi ve Kur’an İlimleri",
+    "sunday_course": "Akaid",
+    "teachers": "Cts: Doç. Dr. Necmettin ÇALIŞKAN\nPaz: Prof. Dr. Harun BEKİROĞLU",
+    "planned_hours": "8"
+  },
+  {
+    "week": "28",
+    "saturday_date": "27.03.2027",
+    "sunday_date": "28.03.2027",
+    "fields": "Cts: Uluslararası İlişkiler\nPaz: Sosyoloji",
+    "saturday_course": "Enerji Güvenliği ve Enerji Politikaları",
+    "sunday_course": "İslam ve Batı Karşılaştırmalı Felsefik Düşünceler",
+    "teachers": "Cts: Dr. Fatih YILDIRIM\nPaz: Dr. Yusuf YALANIZ",
+    "planned_hours": "8"
+  },
+  {
+    "week": "29",
+    "saturday_date": "03.04.2027",
+    "sunday_date": "04.04.2027",
+    "fields": "Cts: İlahiyat\nPaz: İlahiyat",
+    "saturday_course": "Tefsir Metodolojisi ve Kur’an İlimleri",
+    "sunday_course": "Akaid",
+    "teachers": "Cts: Doç. Dr. Necmettin ÇALIŞKAN\nPaz: Prof. Dr. Harun BEKİROĞLU",
+    "planned_hours": "8"
+  },
+  {
+    "week": "30",
+    "saturday_date": "10.04.2027",
+    "sunday_date": "11.04.2027",
+    "fields": "Cts: İktisat\nPaz: Psikoloji",
+    "saturday_course": "Türkiye’nin Ekonomik Analizi",
+    "sunday_course": "Politik Psikoloji",
+    "teachers": "Cts: Prof. Dr. İbrahim Halil SUGÖZÜ\nPaz: Dr. Mücahit GÜLTEKİN",
+    "planned_hours": "8"
+  },
+  {
+    "week": "31",
+    "saturday_date": "17.04.2027",
+    "sunday_date": "18.04.2027",
+    "fields": "Cts: Kamu Yönetimi\nPaz: İşletme",
+    "saturday_course": "Yurt Dışı Türkler Sorunları ve Çözümleri",
+    "sunday_course": "İşletme ve Girişimcilik",
+    "teachers": "Cts: Doç. Dr. Bekir GÜNDOĞMUŞ\nPaz: Doç. Dr. Muhammed MARUF",
+    "planned_hours": "8"
+  },
+  {
+    "week": "32",
+    "saturday_date": "24.04.2027",
+    "sunday_date": "25.04.2027",
+    "fields": "Cts: İktisat\nPaz: Hukuk",
+    "saturday_course": "İktisat Tarihi ve İslam İktisadı",
+    "sunday_course": "Adil Düzen (Ekonomik, Siyasi, Ahlaki, İlmi Düzen)",
+    "teachers": "Cts: Prof. Dr. Sabri TEKİR\nPaz: Doç. Dr. Süleyman AKDEMİR",
+    "planned_hours": "8"
+  },
+  {
+    "week": "33",
+    "saturday_date": "01.05.2027",
+    "sunday_date": "02.05.2027",
+    "fields": "Cts: Psikoloji\nPaz: İşletme",
+    "saturday_course": "Politik Psikoloji",
+    "sunday_course": "İşletme ve Girişimcilik",
+    "teachers": "Cts: Dr. Mücahit GÜLTEKİN\nPaz: Doç. Dr. Muhammed MARUF",
+    "planned_hours": "8"
+  },
+  {
+    "week": "34",
+    "saturday_date": "08.05.2027",
+    "sunday_date": "09.05.2027",
+    "fields": "Cts: İlahiyat\nPaz: İlahiyat",
+    "saturday_course": "Tefsir Metodolojisi ve Kur’an İlimleri",
+    "sunday_course": "Akaid",
+    "teachers": "Cts: Doç. Dr. Necmettin ÇALIŞKAN\nPaz: Prof. Dr. Harun BEKİROĞLU",
+    "planned_hours": "8"
+  },
+  {
+    "week": "35",
+    "saturday_date": "15.05.2027",
+    "sunday_date": "16.05.2027",
+    "fields": "Cts: Kamu Yönetimi\nPaz: Uluslararası İlişkiler",
+    "saturday_course": "Türk Siyasi Hayatı",
+    "sunday_course": "Enerji Güvenliği ve Enerji Politikaları",
+    "teachers": "Cts: Prof. Dr. Abdullah AYDIN\nPaz: Dr. Fatih YILDIRIM",
+    "planned_hours": "8"
+  },
+  {
+    "week": "36",
+    "saturday_date": "22.05.2027",
+    "sunday_date": "23.05.2027",
+    "fields": "Cts: İktisat\nPaz: Uluslararası İlişkiler",
+    "saturday_course": "Türkiye’nin Ekonomik Analizi",
+    "sunday_course": "Siyaset Bilimi ve Erbakan Hocanın Siyasi Mücadelesi",
+    "teachers": "Cts: Prof. Dr. İbrahim Halil SUGÖZÜ\nPaz: Dr. Recai TEKİN",
+    "planned_hours": "8"
+  },
+  {
+    "week": "37",
+    "saturday_date": "29.05.2027",
+    "sunday_date": "30.05.2027",
+    "fields": "Cts: Siyasi Tarih\nPaz: İktisat",
+    "saturday_course": "Dünya Siyasi Tarihi",
+    "sunday_course": "Bankacılık Tarihi ve Kapitalist Finansal Sistem",
+    "teachers": "Cts: Doç. Dr. Musa BUDAK\nPaz: Prof. Dr. Musa ÖZTÜK",
+    "planned_hours": "8"
+  },
+  {
+    "week": "38",
+    "saturday_date": "05.06.2027",
+    "sunday_date": "06.06.2027",
+    "fields": "Cts: Kamu Yönetimi\nPaz: Uluslararası İlişkiler",
+    "saturday_course": "Türk Siyasi Hayatı",
+    "sunday_course": "Siyaset Bilimi ve Erbakan Hocanın Siyasi Mücadelesi",
+    "teachers": "Cts: Prof. Dr. Abdullah AYDIN\nPaz: Dr. Recai TEKİN",
+    "planned_hours": "8"
+  },
+  {
+    "week": "39",
+    "saturday_date": "12.06.2027",
+    "sunday_date": "13.06.2027",
+    "fields": "Cts: İktisat\nPaz: Hukuk",
+    "saturday_course": "İktisat Tarihi ve İslam İktisadı",
+    "sunday_course": "Adil Düzen (Ekonomik, Siyasi, Ahlaki, İlmi Düzen)",
+    "teachers": "Cts: Prof. Dr. Sabri TEKİR\nPaz: Doç. Dr. Süleyman AKDEMİR",
+    "planned_hours": "8"
+  },
+  {
+    "week": "40",
+    "saturday_date": "19.06.2027",
+    "sunday_date": "20.06.2027",
+    "fields": "Cts: Psikoloji\nPaz: Siyasi Tarih",
+    "saturday_course": "Politik Psikoloji",
+    "sunday_course": "Ders yok",
+    "teachers": "Cts: Dr. Mücahit GÜLTEKİN\nPaz: Doç. Dr. Musa BUDAK",
+    "planned_hours": "4"
+  }
+]

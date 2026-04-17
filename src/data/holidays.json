@@ -1,0 +1,170 @@
+[
+  {
+    "date": "2026-10-03",
+    "country": "Almanya",
+    "holiday": "Day of German Unity",
+    "type": "Ulusal resmî tatil",
+    "impact": "Evet — programda ders yok"
+  },
+  {
+    "date": "2026-10-28",
+    "country": "Türkiye",
+    "holiday": "Cumhuriyet Bayramı Arifesi",
+    "type": "Yarım gün resmî tatil",
+    "impact": "Hayır — hafta içine denk geliyor"
+  },
+  {
+    "date": "2026-10-29",
+    "country": "Türkiye",
+    "holiday": "Cumhuriyet Bayramı",
+    "type": "Ulusal resmî tatil",
+    "impact": "Hayır — hafta içine denk geliyor"
+  },
+  {
+    "date": "2026-12-25",
+    "country": "Almanya",
+    "holiday": "Christmas Day",
+    "type": "Ulusal resmî tatil",
+    "impact": "Hayır — hafta içine denk geliyor"
+  },
+  {
+    "date": "2026-12-26",
+    "country": "Almanya",
+    "holiday": "Boxing Day",
+    "type": "Ulusal resmî tatil",
+    "impact": "Evet — programda ders yok"
+  },
+  {
+    "date": "2027-01-01",
+    "country": "Almanya",
+    "holiday": "New Year's Day",
+    "type": "Ulusal resmî tatil",
+    "impact": "Hayır — hafta içine denk geliyor"
+  },
+  {
+    "date": "2027-01-01",
+    "country": "Türkiye",
+    "holiday": "Yılbaşı",
+    "type": "Ulusal resmî tatil",
+    "impact": "Hayır — hafta içine denk geliyor"
+  },
+  {
+    "date": "2027-03-09",
+    "country": "Türkiye",
+    "holiday": "Ramazan Bayramı Arifesi",
+    "type": "Yarım gün resmî tatil (tentative)",
+    "impact": "Hayır — hafta içine denk geliyor"
+  },
+  {
+    "date": "2027-03-10",
+    "country": "Türkiye",
+    "holiday": "Ramazan Bayramı",
+    "type": "Ulusal resmî tatil (tentative)",
+    "impact": "Hayır — hafta içine denk geliyor"
+  },
+  {
+    "date": "2027-03-11",
+    "country": "Türkiye",
+    "holiday": "Ramazan Bayramı Tatili",
+    "type": "Ulusal resmî tatil (tentative)",
+    "impact": "Hayır — hafta içine denk geliyor"
+  },
+  {
+    "date": "2027-03-12",
+    "country": "Türkiye",
+    "holiday": "Ramazan Bayramı Tatili",
+    "type": "Ulusal resmî tatil (tentative)",
+    "impact": "Hayır — hafta içine denk geliyor"
+  },
+  {
+    "date": "2027-03-26",
+    "country": "Almanya",
+    "holiday": "Good Friday",
+    "type": "Ulusal resmî tatil",
+    "impact": "Hayır — hafta içine denk geliyor"
+  },
+  {
+    "date": "2027-03-29",
+    "country": "Almanya",
+    "holiday": "Easter Monday",
+    "type": "Ulusal resmî tatil",
+    "impact": "Hayır — hafta içine denk geliyor"
+  },
+  {
+    "date": "2027-04-23",
+    "country": "Türkiye",
+    "holiday": "Ulusal Egemenlik ve Çocuk Bayramı",
+    "type": "Ulusal resmî tatil",
+    "impact": "Hayır — hafta içine denk geliyor"
+  },
+  {
+    "date": "2027-05-01",
+    "country": "Almanya",
+    "holiday": "May Day",
+    "type": "Ulusal resmî tatil",
+    "impact": "Evet — programda ders yok"
+  },
+  {
+    "date": "2027-05-01",
+    "country": "Türkiye",
+    "holiday": "Emek ve Dayanışma Günü",
+    "type": "Ulusal resmî tatil",
+    "impact": "Evet — programda ders yok"
+  },
+  {
+    "date": "2027-05-06",
+    "country": "Almanya",
+    "holiday": "Ascension Day",
+    "type": "Ulusal resmî tatil",
+    "impact": "Hayır — hafta içine denk geliyor"
+  },
+  {
+    "date": "2027-05-15",
+    "country": "Türkiye",
+    "holiday": "Kurban Bayramı Arifesi",
+    "type": "Yarım gün resmî tatil (tentative)",
+    "impact": "Evet — programda ders yok"
+  },
+  {
+    "date": "2027-05-16",
+    "country": "Türkiye",
+    "holiday": "Kurban Bayramı",
+    "type": "Ulusal resmî tatil (tentative)",
+    "impact": "Evet — programda ders yok"
+  },
+  {
+    "date": "2027-05-17",
+    "country": "Almanya",
+    "holiday": "Whit Monday",
+    "type": "Ulusal resmî tatil",
+    "impact": "Hayır — hafta içine denk geliyor"
+  },
+  {
+    "date": "2027-05-17",
+    "country": "Türkiye",
+    "holiday": "Kurban Bayramı Tatili",
+    "type": "Ulusal resmî tatil (tentative)",
+    "impact": "Hayır — hafta içine denk geliyor"
+  },
+  {
+    "date": "2027-05-18",
+    "country": "Türkiye",
+    "holiday": "Kurban Bayramı Tatili",
+    "type": "Ulusal resmî tatil (tentative)",
+    "impact": "Hayır — hafta içine denk geliyor"
+  },
+  {
+    "date": "2027-05-19",
+    "country": "Türkiye",
+    "holiday": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+    "type": "Ulusal resmî tatil",
+    "impact": "Hayır — hafta içine denk geliyor"
+  },
+  {
+    "date": "2027-07-15",
+    "country": "Türkiye",
+    "holiday": "Demokrasi ve Millî Birlik Günü",
+    "type": "Ulusal resmî tatil",
+    "impact": "Hayır — hafta içine denk geliyor"
+  }
+]

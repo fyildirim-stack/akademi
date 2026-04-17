@@ -1,0 +1,196 @@
+.schedule-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.month-section {
+  padding: 1px;
+  overflow: hidden;
+}
+
+.month-header {
+  padding: 1.5rem 2rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  border-bottom: 1px solid var(--border-color);
+  background: rgba(15, 23, 42, 0.6);
+  margin: 0;
+}
+
+.table-container {
+  overflow-x: auto;
+  border-radius: 0 0 16px 16px;
+}
+
+.schedule-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.schedule-table th {
+  padding: 1.2rem 1.5rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  border-bottom: 1px solid var(--border-color);
+  background: rgba(15, 23, 42, 0.4);
+}
+
+.schedule-table td {
+  padding: 1.5rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  vertical-align: top;
+}
+
+.schedule-table tr:last-child td {
+  border-bottom: none;
+}
+
+.week-col {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.week-badge {
+  display: inline-block;
+  background: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 100%);
+  color: white;
+  padding: 0.25rem 0.75rem;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  width: max-content;
+}
+
+.hours {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+}
+
+.day-cell {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.date {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.course {
+  font-weight: 500;
+  color: var(--text-primary);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.inline-field-badge {
+  display: inline-block;
+  background: rgba(139, 92, 246, 0.2);
+  color: #a78bfa;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.teacher {
+  font-size: 0.9rem;
+  color: #60a5fa;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+/* Month Colors */
+.schedule-table tr {
+  transition: background-color 0.3s ease;
+}
+
+/* Eylül - Turuncu/Kırmızımsı */
+.month-09 { background-color: rgba(249, 115, 22, 0.02); }
+.month-09:hover { background-color: rgba(249, 115, 22, 0.08); }
+.month-border-09 { border-top: 3px solid #f97316; }
+.text-color-09 { color: #fdba74; }
+
+/* Ekim - Mavi */
+.month-10 { background-color: rgba(59, 130, 246, 0.02); }
+.month-10:hover { background-color: rgba(59, 130, 246, 0.08); }
+.month-border-10 { border-top: 3px solid #3b82f6; }
+.text-color-10 { color: #60a5fa; }
+
+/* Kasım - Yeşil */
+.month-11 { background-color: rgba(16, 185, 129, 0.02); }
+.month-11:hover { background-color: rgba(16, 185, 129, 0.08); }
+.month-border-11 { border-top: 3px solid #10b981; }
+.text-color-11 { color: #34d399; }
+
+/* Aralık - Turuncu */
+.month-12 { background-color: rgba(245, 158, 11, 0.02); }
+.month-12:hover { background-color: rgba(245, 158, 11, 0.08); }
+.month-border-12 { border-top: 3px solid #f59e0b; }
+.text-color-12 { color: #fbbf24; }
+
+/* Ocak - Mor */
+.month-01 { background-color: rgba(139, 92, 246, 0.02); }
+.month-01:hover { background-color: rgba(139, 92, 246, 0.08); }
+.month-border-01 { border-top: 3px solid #8b5cf6; }
+.text-color-01 { color: #a78bfa; }
+
+/* Şubat - Pembe */
+.month-02 { background-color: rgba(236, 72, 153, 0.02); }
+.month-02:hover { background-color: rgba(236, 72, 153, 0.08); }
+.month-border-02 { border-top: 3px solid #ec4899; }
+.text-color-02 { color: #f472b6; }
+
+/* Mart - Açık Mavi */
+.month-03 { background-color: rgba(14, 165, 233, 0.02); }
+.month-03:hover { background-color: rgba(14, 165, 233, 0.08); }
+.month-border-03 { border-top: 3px solid #0ea5e9; }
+.text-color-03 { color: #38bdf8; }
+
+/* Nisan - Turkuaz */
+.month-04 { background-color: rgba(20, 184, 166, 0.02); }
+.month-04:hover { background-color: rgba(20, 184, 166, 0.08); }
+.month-border-04 { border-top: 3px solid #14b8a6; }
+.text-color-04 { color: #2dd4bf; }
+
+/* Mayıs - Kırmızı */
+.month-05 { background-color: rgba(244, 63, 94, 0.02); }
+.month-05:hover { background-color: rgba(244, 63, 94, 0.08); }
+.month-border-05 { border-top: 3px solid #f43f5e; }
+.text-color-05 { color: #fb7185; }
+
+/* Haziran - Sarı */
+.month-06 { background-color: rgba(234, 179, 8, 0.02); }
+.month-06:hover { background-color: rgba(234, 179, 8, 0.08); }
+.month-border-06 { border-top: 3px solid #eab308; }
+.text-color-06 { color: #facc15; }
+
+/* Temmuz - İndigo */
+.month-07 { background-color: rgba(99, 102, 241, 0.02); }
+.month-07:hover { background-color: rgba(99, 102, 241, 0.08); }
+.month-border-07 { border-top: 3px solid #6366f1; }
+.text-color-07 { color: #818cf8; }
+
+/* Ağustos - Camgöbeği (Cyan) */
+.month-08 { background-color: rgba(6, 182, 212, 0.02); }
+.month-08:hover { background-color: rgba(6, 182, 212, 0.08); }
+.month-border-08 { border-top: 3px solid #06b6d4; }
+.text-color-08 { color: #22d3ee; }
+
+/* Default */
+.month-default { background-color: transparent; }
+.month-default:hover { background-color: rgba(255, 255, 255, 0.02); }
+.month-border-default { border-top: 3px solid #94a3b8; }
+.text-color-default { color: #cbd5e1; }

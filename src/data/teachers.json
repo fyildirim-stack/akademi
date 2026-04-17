@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Prof. Dr. Musa ÖZTÜK",
+    "field": "İktisat",
+    "course": "Bankacılık Tarihi ve Kapitalist Finansal Sistem",
+    "total_hours": "5"
+  },
+  {
+    "name": "Prof. Dr. Harun BEKİROĞLU",
+    "field": "İlahiyat",
+    "course": "Akaid",
+    "total_hours": "5"
+  },
+  {
+    "name": "Doç. Dr. Necmettin ÇALIŞKAN",
+    "field": "İlahiyat",
+    "course": "Tefsir Metodolojisi ve Kur’an İlimleri",
+    "total_hours": "5"
+  },
+  {
+    "name": "Prof. Dr. İbrahim Halil SUGÖZÜ",
+    "field": "İktisat",
+    "course": "Türkiye’nin Ekonomik Analizi",
+    "total_hours": "5"
+  },
+  {
+    "name": "Doç. Dr. Musa BUDAK",
+    "field": "Siyasi Tarih",
+    "course": "Dünya Siyasi Tarihi",
+    "total_hours": "5"
+  },
+  {
+    "name": "Prof. Dr. Abdullah AYDIN",
+    "field": "Kamu Yönetimi",
+    "course": "Türk Siyasi Hayatı",
+    "total_hours": "5"
+  },
+  {
+    "name": "Prof. Dr. Mete GÜNDOĞAN",
+    "field": "İktisat",
+    "course": "Uluslararası Finans Sistemi ve Yapısı",
+    "total_hours": "5"
+  },
+  {
+    "name": "Dr. Recai TEKİN",
+    "field": "Uluslararası İlişkiler",
+    "course": "Siyaset Bilimi ve Erbakan Hocanın Siyasi Mücadelesi",
+    "total_hours": "5"
+  },
+  {
+    "name": "Dr. Fatih YILDIRIM",
+    "field": "Uluslararası İlişkiler",
+    "course": "Enerji Güvenliği ve Enerji Politikaları",
+    "total_hours": "5"
+  },
+  {
+    "name": "Dr. Yusuf YALANIZ",
+    "field": "Sosyoloji",
+    "course": "İslam ve Batı Karşılaştırmalı Felsefik Düşünceler",
+    "total_hours": "5"
+  },
+  {
+    "name": "Dr. Mücahit GÜLTEKİN",
+    "field": "Psikoloji",
+    "course": "Politik Psikoloji",
+    "total_hours": "5"
+  },
+  {
+    "name": "Doç. Dr. Bekir GÜNDOĞMUŞ",
+    "field": "Kamu Yönetimi",
+    "course": "Yurt Dışı Türkler Sorunları ve Çözümleri",
+    "total_hours": "5"
+  },
+  {
+    "name": "Doç. Dr. Muhammed MARUF",
+    "field": "İşletme",
+    "course": "İşletme ve Girişimcilik",
+    "total_hours": "4"
+  },
+  {
+    "name": "Dr. Abdülaziz KIRANŞAL",
+    "field": "İlahiyat",
+    "course": "Aile ve Gençliğin Sorunları ve Çözüm Önerileri",
+    "total_hours": "5"
+  },
+  {
+    "name": "Prof. Dr. Sabri TEKİR",
+    "field": "İktisat",
+    "course": "İktisat Tarihi ve İslam İktisadı",
+    "total_hours": "5"
+  },
+  {
+    "name": "Doç. Dr. Süleyman AKDEMİR",
+    "field": "Hukuk",
+    "course": "Adil Düzen (Ekonomik, Siyasi, Ahlaki, İlmi Düzen)",
+    "total_hours": "5"
+  }
+]
