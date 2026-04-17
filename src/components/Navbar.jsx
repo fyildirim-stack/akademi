@@ -2,14 +2,18 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 import { Home, CalendarDays, Users, BookOpen, UserPlus } from 'lucide-react';
 import './Navbar.css';
+import ibadLogo from '../assets/ibad-logo.png';
 
 const Navbar = () => {
   return (
     <nav className="navbar glass-panel">
-      <div className="nav-brand">
-        <span className="brand-logo">🏛️</span>
-        <span className="brand-text">Akademi</span>
-      </div>
+      <NavLink to="/" className="nav-brand">
+        <img src={ibadLogo} alt="IBAD Akademi Logo" className="brand-logo-img" />
+        <div className="brand-text-group">
+          <span className="brand-text">IBAD Akademi</span>
+          <span className="brand-sub">Internationale Bildungsakademie</span>
+        </div>
+      </NavLink>
       <ul className="nav-links">
         <li>
           <NavLink to="/" className={({ isActive }) => isActive ? "nav-link active" : "nav-link"}>

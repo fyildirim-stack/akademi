@@ -30,7 +30,7 @@ const SchedulePage = () => (
 
 function App() {
   return (
-    <Router>
+    <Router basename="/akademi">
       <div className="container">
         <Navbar />
         <main>

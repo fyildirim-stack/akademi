@@ -7,11 +7,15 @@ const Home = () => {
   return (
     <div className="home-container fade-in-up">
       <div className="hero-section glass-panel">
+        <div className="hero-logo-area">
+          <img src="/akademi/assets/ibad-logo.png" alt="IBAD Akademi" className="hero-logo" onError={(e) => e.target.style.display='none'} />
+        </div>
         <h1>İlmi Derinlik, Fikri Öncülük</h1>
+        <p className="hero-tagline">Internationale Bildungsakademie Deutschland e.V.</p>
         <p className="hero-subtitle">
-          Hafta sonu akademik çalışma programımız ile alanında uzman akademisyenlerden 
-          eğitim alma fırsatını yakalayın. İktisat, İlahiyat, Hukuk ve daha birçok alanda 
-          derinlemesine bilgi edinin.
+          IBAD Akademi, Almanya'da yaşayan Türkçe konuşan topluluklar için 
+          İlahiyat, İktisat, Hukuk ve Sosyal Bilimler alanlarında akademik 
+          düzeyde hafta sonu eğitim programları sunan bir eğitim akademisidir.
         </p>
         <div className="hero-actions">
           <Link to="/basvuru" className="btn btn-primary">Hemen Başvur</Link>
@@ -46,17 +50,18 @@ const Home = () => {
       </div>
 
       <div className="about-section glass-panel">
-        <h2>Akademi Hakkında</h2>
+        <h2>IBAD Akademi Hakkında</h2>
         <p>
-          Akademimiz, farklı disiplinlerde bilgi sahibi olmak isteyen, akademik vizyonunu 
-          genişletmeyi hedefleyen ve topluma yön verecek liderler yetiştirmeyi amaçlayan 
-          bir eğitim inisiyatifidir. Modern çağın gereksinimleri ile geleneksel bilgeliği 
-          harmanlayarak katılımcılara eşsiz bir öğrenme deneyimi sunuyoruz.
+          <strong>Internationale Bildungsakademie Deutschland e.V. (IBAD)</strong>, 
+          1998 yılında Almanya'da kurulan ve bugüne kadar binlerce katılımcıya hizmet 
+          vermiş köklü bir eğitim derneğidir. Akademimiz; İslami ilimler, iktisat, hukuk 
+          ve sosyal bilimler gibi farklı disiplinlerde akademik düzeyde eğitimler 
+          sunmayı hedeflemektedir.
         </p>
         <p>
-          44 haftalık yoğun programımız boyunca öğrencilerimiz sadece teorik bilgi almakla 
-          kalmayacak, aynı zamanda alanının önde gelen isimleriyle interaktif tartışma 
-          ortamlarında bulunma fırsatı yakalayacaklardır.
+          40'tan fazla haftalık yoğun programımız boyunca öğrencilerimiz sadece teorik 
+          bilgi almakla kalmayacak; alanının önde gelen isimleriyle interaktif tartışma 
+          ortamlarında bulunma ve kendi fikirlerini geliştirme fırsatı yakalayacaklardır.
         </p>
       </div>
     </div>

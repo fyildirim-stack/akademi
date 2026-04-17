@@ -19,6 +19,26 @@
   -webkit-text-fill-color: transparent;
 }
 
+.hero-logo-area {
+  margin-bottom: 1.5rem;
+}
+
+.hero-logo {
+  height: 100px;
+  width: auto;
+  object-fit: contain;
+  filter: drop-shadow(0 4px 15px rgba(0,0,0,0.5));
+}
+
+.hero-tagline {
+  font-size: 1rem;
+  color: #a78bfa;
+  letter-spacing: 1px;
+  margin-bottom: 1.5rem;
+  font-style: italic;
+  -webkit-text-fill-color: #a78bfa;
+}
+
 .hero-subtitle {
   font-size: 1.25rem;
   color: var(--text-secondary);
