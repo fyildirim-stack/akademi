@@ -2,11 +2,12 @@ import React from 'react';
 import './Home.css';
 import { BookOpen, Users, CalendarDays, Award } from 'lucide-react';
 import { Link } from 'react-router-dom';
+import heroBanner from '../assets/hero-banner.png';
 
 const Home = () => {
   return (
     <div className="home-container fade-in-up">
-      <div className="hero-section glass-panel">
+      <div className="hero-section glass-panel" style={{backgroundImage: `url(${heroBanner})`}}>
         <div className="hero-logo-area">
           <img src="/akademi/assets/ibad-logo.png" alt="IBAD Akademi" className="hero-logo" onError={(e) => e.target.style.display='none'} />
         </div>
@@ -53,8 +54,7 @@ const Home = () => {
         <h2>IBAD Akademi Hakkında</h2>
         <p>
           <strong>Internationale Bildungsakademie Deutschland e.V. (IBAD)</strong>, 
-          1998 yılında Almanya'da kurulan ve bugüne kadar binlerce katılımcıya hizmet 
-          vermiş köklü bir eğitim derneğidir. Akademimiz; İslami ilimler, iktisat, hukuk 
+          Almanya'da kurulan bağımsız bir eğitim derneğidir. Akademimiz; İslami ilimler, iktisat, hukuk 
           ve sosyal bilimler gibi farklı disiplinlerde akademik düzeyde eğitimler 
           sunmayı hedeflemektedir.
         </p>

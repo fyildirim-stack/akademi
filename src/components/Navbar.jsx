@@ -8,7 +8,12 @@ const Navbar = () => {
   return (
     <nav className="navbar glass-panel">
       <NavLink to="/" className="nav-brand">
-        <img src={ibadLogo} alt="IBAD Akademi Logo" className="brand-logo-img" />
+        <div className="brand-logo-wrapper">
+          <img src={ibadLogo} alt="IBAD Akademi Logo" className="brand-logo-img" />
+          <div className="logo-popup">
+            <img src={ibadLogo} alt="IBAD Akademi Logo Büyük" />
+          </div>
+        </div>
         <div className="brand-text-group">
           <span className="brand-text">IBAD Akademi</span>
           <span className="brand-sub">Internationale Bildungsakademie</span>
